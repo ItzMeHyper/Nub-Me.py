@@ -1,4 +1,3 @@
-#write a program to find the median of a list of numbers
 n = [5,2,7,1,8,4]
 n.sort
 print(n)
