@@ -1,4 +1,3 @@
-#write a program to remove duplicates from a list
 A = []
 n = int(input("How many numbers\n"))
 for i in range (n):
