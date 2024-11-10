@@ -1,4 +1,3 @@
-#write a program to swap two numbers using function
 def swap(a,b):
     temp = a
     a = b
