@@ -1,4 +1,3 @@
-#write a program using function to check whether a number entered by the user is positive, negative or zero
 def check_num(n):
     if(n>0):
         return 1
