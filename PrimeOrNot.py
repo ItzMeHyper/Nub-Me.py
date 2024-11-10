@@ -1,4 +1,3 @@
-#write a program using function to check whether the given nunber is prime or not
 prime = 0
 n = int(input("Enter a number\n"))
 for i in range(2,n):
