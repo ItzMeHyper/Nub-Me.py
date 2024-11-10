@@ -1,4 +1,3 @@
-#write a program to find the smallest number from a list
 A = []
 n = int(input("Enter how many numbers\n"))
 for i in range (n):
