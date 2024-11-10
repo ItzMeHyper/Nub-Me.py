@@ -1,4 +1,3 @@
-#wirte a program to find the grade of a student
 marks = int(input("Enter the marks\n"))
 
 if (marks>=90):
