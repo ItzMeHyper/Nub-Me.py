@@ -1,4 +1,3 @@
-#create a list and find min and max from the list
 A = []
 n = int(input("How many elements\n"))
 for i in range (n):
