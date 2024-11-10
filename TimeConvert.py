@@ -1,4 +1,3 @@
-#write a program to convert time into minutes
 def calc_min(hrs,mts):
     minutes = hrs * 60 + mts
     return minutes
