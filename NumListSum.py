@@ -1,4 +1,3 @@
-#write a program to find the sum of all the even numbers in the list
 A = []
 n = int(input("How many numbers\n"))
 for i in range (n):
